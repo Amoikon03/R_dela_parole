@@ -45,7 +45,7 @@ with col1:
     st.markdown(desc_style, unsafe_allow_html=True)
 
 with col2:
-    st.image("images.jpg", use_column_width=True)
+    st.image("R_dela_parole/images.jpg", use_column_width=True)
     st.markdown(f"<div style='color: {caption_text_color}; font-weight: bold; text-align: center;'>Interaction Homme-Robot</div>", unsafe_allow_html=True)
 
 # Lien vers l'autre page ou section
